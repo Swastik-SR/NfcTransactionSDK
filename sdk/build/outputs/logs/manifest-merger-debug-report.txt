@@ -1,0 +1,16 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/swastik/Documents/personal/NfcTransactionSDK/sdk/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest2288379942844137658.xml:2:13-83
+INJECTED from /Users/swastik/Documents/personal/NfcTransactionSDK/sdk/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest2288379942844137658.xml:2:13-83
+	package
+		INJECTED from /Users/swastik/Documents/personal/NfcTransactionSDK/sdk/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest2288379942844137658.xml
+	xmlns:android
+		ADDED from /Users/swastik/Documents/personal/NfcTransactionSDK/sdk/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest2288379942844137658.xml:2:23-81
+uses-sdk
+INJECTED from /Users/swastik/Documents/personal/NfcTransactionSDK/sdk/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest2288379942844137658.xml reason: use-sdk injection requested
+INJECTED from /Users/swastik/Documents/personal/NfcTransactionSDK/sdk/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest2288379942844137658.xml
+INJECTED from /Users/swastik/Documents/personal/NfcTransactionSDK/sdk/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest2288379942844137658.xml
+	android:targetSdkVersion
+		INJECTED from /Users/swastik/Documents/personal/NfcTransactionSDK/sdk/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest2288379942844137658.xml
+	android:minSdkVersion
+		INJECTED from /Users/swastik/Documents/personal/NfcTransactionSDK/sdk/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest2288379942844137658.xml

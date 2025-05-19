@@ -1,0 +1,27 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color ic_launcher_background
+color purple_200
+color purple_500
+color purple_700
+color teal_200
+color teal_700
+color white
+drawable ic_launcher_foreground
+id amountInput
+id amountLayout
+id amountText
+id directionText
+id peerDeviceIdText
+id sendButton
+id timestampText
+id transactionHistoryLabel
+id transactionIdText
+id transactionsRecyclerView
+layout activity_main
+layout item_transaction
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Theme.NfcTransactionDemo

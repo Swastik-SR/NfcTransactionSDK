@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<testsuite tests="0" failures="0" errors="0" skipped="0" time="1.747582859924E9" timestamp="2025-05-18T15:40:59" hostname="localhost">
+  <properties>
+    <property name="device" value="Pixel 6a - 15" />
+    <property name="flavor" value="" />
+    <property name="project" value=":sdk" />
+  </properties>
+</testsuite>
